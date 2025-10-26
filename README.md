@@ -143,7 +143,7 @@ Menampilkan halaman utama aplikasi yang terdiri dari tiga bagian utama:
 
 | Header | Content | Footer |
 |:--:|:--:|:--:|
-| ![Home Header](assets/image/home_header.png) | ![Home Content](assets/image/home_content.png) | ![Home Footer](assets/image/home_footer.png) |
+| ![Home Header](kopibeans/kopibeans/assets/image/web/header.png) | ![Home Content](kopibeans/kopibeans/assets/image/web/content.png) | ![Home Footer](kopibeans/kopibeans/assets/image/web/footer.png) |
 
 ---
 
@@ -151,7 +151,7 @@ Menampilkan halaman utama aplikasi yang terdiri dari tiga bagian utama:
 Menampilkan produk-produk yang sedang dalam periode diskon dengan waktu terbatas.
 Pengguna dapat dengan cepat menambahkan produk ke keranjang sebelum waktu promo berakhir.
 
-![Flash Sale Page](assets/image/flash_sale.png)
+![Flash Sale Page](kopibeans/kopibeans/assets/image/web/flashSale.png)
 
 ---
 
@@ -159,7 +159,7 @@ Pengguna dapat dengan cepat menambahkan produk ke keranjang sebelum waktu promo 
 Menampilkan fitur penilaian dan ulasan pelanggan terhadap produk yang telah dibeli.
 Membantu pengguna lain dalam menentukan pilihan terbaik berdasarkan pengalaman pembeli sebelumnya.
 
-![Rating Page](assets/image/rating.png)
+![Rating Page](kopibeans/kopibeans/assets/image/web/rating.png)
 
 ---
 
@@ -167,6 +167,6 @@ Membantu pengguna lain dalam menentukan pilihan terbaik berdasarkan pengalaman p
 Menampilkan statistik penjualan, jumlah pengguna, serta laporan transaksi harian.
 Admin juga dapat memantau performa produk dan mengelola data toko secara keseluruhan.
 
-![Admin Dashboard](assets/image/admin_dashboard.png)
+![Admin Dashboard](kopibeans/kopibeans/assets/image/web/dashboard_admin.png)
 
 
